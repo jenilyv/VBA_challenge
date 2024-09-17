@@ -1,2 +1,2 @@
 # VBA_challenge
-hw 2
+This project uses VBA scripting to analyze stock market data across multiple quarters. The script will loop through all stocks for each quarter, outputting the ticker symbol, quarterly change, percentage change, and total stock volume. Additionally, it will identify the stock with the greatest percentage increase, greatest percentage decrease, and greatest total volume. The script should run across all worksheets simultaneously, with conditional formatting applied to highlight positive changes in green and negative changes in red. 
